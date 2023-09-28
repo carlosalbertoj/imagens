@@ -21,10 +21,10 @@ body{
     height: 0px;
     border-radius: 0%;
 }
-.meular{
+.meular1{
     top: 267px;
     left: 0%;
-    width: 20px;
+    width: 10px;
     height: 200px;
     border-radius: 20%;
     text-align: center;
@@ -38,3 +38,4 @@ body{
     background-color: rgb(218, 31, 31);
     height: 50px;
 }
+
